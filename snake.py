@@ -15,7 +15,7 @@ name = 'Jafaar'
 age = 2
 
 # float (decimale)
-weight = 220,462
+weight = 220.462
 
 # Boolean (only true or false)
 hungry = False 
@@ -36,8 +36,6 @@ if hungry:
 else:
     print(name + ' BURPS loudly')
 
-if weight > 5 :
-    print('Your pet is massive!')
 
 
 #let's order your code => go to snake2
